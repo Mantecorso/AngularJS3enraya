@@ -1,0 +1,22 @@
+{
+  "name": "angularjs3enraya",
+  "version": "1.0.0",
+  "description": "Juego del 3 en raya con AngularJS and bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mantecorso/AngularJS3enraya.git"
+  },
+  "author": "Luis Jurado Quesada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mantecorso/AngularJS3enraya/issues"
+  },
+  "homepage": "https://github.com/Mantecorso/AngularJS3enraya#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
